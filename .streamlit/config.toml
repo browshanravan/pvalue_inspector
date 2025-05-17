@@ -8,3 +8,4 @@ backgroundColor = "white"
 
 [server]
 runOnSave = true
+maxUploadSize = 5
