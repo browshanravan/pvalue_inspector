@@ -13,7 +13,7 @@ You can pull this package and run it in devcontainers in your VSCode.
 
 Otherwise run the app by installing `python 3.10` using conda.
 
-easiest way to run the app is to go to the local directory of this repo and execute:
+The easiest way to run the app is to go to the local directory of this repo and execute:
 
 ```console
 sh app.zsh
