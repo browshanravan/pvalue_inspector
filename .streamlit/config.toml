@@ -1,0 +1,10 @@
+[client]
+showErrorDetails = "none"
+
+[theme]
+base= "light"
+primaryColor = "#F63366"
+backgroundColor = "white"
+
+[server]
+runOnSave = true
