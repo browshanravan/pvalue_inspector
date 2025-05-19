@@ -1,9 +1,9 @@
-# significance_tester_app
+# pvalue_inspector
 
 
 ## What is this app?
 
-This meant to showcase how you can use a few lines of code and a UI using streamlit to create simple packages.
+This meant to showcase how you can make an app using a few lines of code and a UI, utilising streamlit, to create simple packages.
 
 This app allows you to upload your data and perform significance test analysis.
 

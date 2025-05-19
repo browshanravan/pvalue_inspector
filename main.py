@@ -4,7 +4,7 @@ from scipy.stats import (
     mannwhitneyu
     )
 
-from significance_tester_app.src.utils import read_csv_file
+from pvalue_inspector.src.utils import read_csv_file
 
 st.title("The Significance tester app")
 st.header("")
