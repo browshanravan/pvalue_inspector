@@ -1,20 +1,14 @@
 import streamlit as st
 from scipy.stats import (
     ttest_ind,
-    mannwhitneyu
+    mannwhitneyu,
     )
 
 from pvalue_inspector.src.utils import read_csv_file
 
-st.title("The Significance tester app")
-st.header("")
+st.title("Welcome to pValue Inspector App")
 st.caption("This app is for demostration purposes only!")
-
-
-statistical_tests={
-    "t-test": ttest_ind,
-    "Mann-Whitney U": mannwhitneyu,
-}
+st.header("")
 
 
 uploaded_file = st.file_uploader(
