@@ -48,7 +48,7 @@ Key features:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/behzadrowshanravan/pvalue_inspector.git
+   git clone https://github.com/browshanravan/pvalue_inspector.git
    cd pvalue_inspector
    ```
 
