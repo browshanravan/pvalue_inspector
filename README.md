@@ -39,7 +39,7 @@ Key features:
 
 ### Prerequisites
 
-- Python 3.10+  
+- Python 3.10 or higher
 - pip  
 
 > Optionally, use the included Dev Container (VS Code + Docker) to spin up a ready-to-code environment.
